@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T09:46:27.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="amdV1tLQhyEwPaNUJVgz" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T09:52:26.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mn6ad8_ZskyXi1Do-JCv" version="22.1.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="733" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="注册" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="-10" width="710" height="1090" as="geometry" />
+          <mxGeometry x="70" y="10" width="550" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="用户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="230" height="1070" as="geometry" />
+          <mxGeometry y="20" width="230" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="Mrs2PnhfkA3vAVPsogvi-46" value="输入手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="60" y="40" width="115" height="30" as="geometry" />
@@ -46,8 +46,8 @@
             <mxPoint x="117.13999999999999" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77e6c97f196da883-4" value="前端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="230" y="20" width="160" height="1070" as="geometry" />
+        <mxCell id="77e6c97f196da883-4" value="后端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="230" y="20" width="160" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="Mrs2PnhfkA3vAVPsogvi-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="Mrs2PnhfkA3vAVPsogvi-98" target="Mrs2PnhfkA3vAVPsogvi-100">
           <mxGeometry relative="1" as="geometry" />
@@ -85,8 +85,8 @@
         <mxCell id="Mrs2PnhfkA3vAVPsogvi-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;密码是否符合规则&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="655" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="390" y="20" width="160" height="1070" as="geometry" />
+        <mxCell id="77e6c97f196da883-5" value="前端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="390" y="20" width="160" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="Mrs2PnhfkA3vAVPsogvi-114" value="返回提示信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="40" y="235" width="120" height="60" as="geometry" />
