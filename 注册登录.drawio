@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T11:02:50.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ceUZE1Ta_Bl4_1kvL5Tb" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T11:05:24.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0Ybmk6fD5qODI77YGq9C" version="22.1.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1026" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,13 +129,13 @@
         <mxCell id="77e6c97f196da883-5" value="前端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="390" y="20" width="160" height="1600" as="geometry" />
         </mxCell>
-        <mxCell id="Mrs2PnhfkA3vAVPsogvi-114" value="返回提示信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="Mrs2PnhfkA3vAVPsogvi-114" value="提示手机号不正确" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="40" y="235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mrs2PnhfkA3vAVPsogvi-117" value="返回提示信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="Mrs2PnhfkA3vAVPsogvi-117" value="提示手机号不可用" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="40" y="375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mrs2PnhfkA3vAVPsogvi-119" value="返回提示信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="Mrs2PnhfkA3vAVPsogvi-119" value="提示用户名已存在" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="40" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mrs2PnhfkA3vAVPsogvi-148" value="提示重发验证码" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-5" vertex="1">
