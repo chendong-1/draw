@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T15:43:59.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J4FoB2IMyGTMI-rpwe7m" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T15:44:53.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ekOX4dWkDXEYBY5ySlNx" version="22.1.16" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2762" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
             <mxPoint x="80" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iG8bgSeXvd7J5cqL0o8_-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iG8bgSeXvd7J5cqL0o8_-17">
+        <mxCell id="iG8bgSeXvd7J5cqL0o8_-18" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iG8bgSeXvd7J5cqL0o8_-17">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -665,24 +665,24 @@
             <mxPoint x="80" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iG8bgSeXvd7J5cqL0o8_-67" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iG8bgSeXvd7J5cqL0o8_-20">
+          <mxGeometry x="-0.1875" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iG8bgSeXvd7J5cqL0o8_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="575" as="sourcePoint" />
             <mxPoint x="80" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iG8bgSeXvd7J5cqL0o8_-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iG8bgSeXvd7J5cqL0o8_-34">
-          <mxGeometry x="-0.28" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iG8bgSeXvd7J5cqL0o8_-55" value="生成账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
           <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iG8bgSeXvd7J5cqL0o8_-56" value="生成密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
+        <mxCell id="iG8bgSeXvd7J5cqL0o8_-56" value="生成昵称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
           <mxGeometry x="20" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iG8bgSeXvd7J5cqL0o8_-57" value="生成昵称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
+        <mxCell id="iG8bgSeXvd7J5cqL0o8_-57" value="生成密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iG8bgSeXvd7J5cqL0o8_-16">
           <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iG8bgSeXvd7J5cqL0o8_-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iG8bgSeXvd7J5cqL0o8_-16" source="iG8bgSeXvd7J5cqL0o8_-58" target="iG8bgSeXvd7J5cqL0o8_-59">
